@@ -4,8 +4,8 @@
 
 //atributos
     private $db = 'mysql:host=localhost;dbname=supermercados';
-   	private $user = 'root';
- 	private $pass = 'fighte12';
+   	private $user = 'usuario';
+ 	private $pass = 'contraseña';
 
  	public function Conectar(){
  		try{
